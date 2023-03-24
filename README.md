@@ -1,5 +1,5 @@
 # tz-front
-
+Справился за 1 час 50 минут
 ## Project setup
 ```
 npm install
